@@ -175,11 +175,11 @@ linkend="алькиониды">Алькиониды</glossterm>.</para></glossde
 заливу.</para></glossdef>
 </glossentry>
 
-<glossentry id="аброльос"><glossterm>Аброльос, камбуэйрос (порт. abrolhos, cambuei-ros)</glossterm>
+<glossentry id="аброльос"><glossterm>Аброльос, камбуэйрос (порт. abrolhos, cambueiros)</glossterm>
 
-<glossdef><para>Зимние (май—август) фронтальные шквалы с дождями на
-юго-восточных берегах Бразилии, а также в районе банки
-Аброльюс.</para></glossdef>
+<glossdef><para>Зимние (май—август) фронтальные <glossterm
+linkend="шквал">шквалы</glossterm> с дождями на юго-восточных берегах
+Бразилии, а также в районе банки Аброльюс.</para></glossdef>
 </glossentry>
 
 <glossentry id="авал"><glossterm>Авал (фр. aval)</glossterm>
@@ -537,10 +537,42 @@ linkend="имбат">Имбат</glossterm>.</para></glossdef>
 типа боры, дующий из долины р.&nbsp;Верхняя Ангара.</para></glossdef>
 </glossentry>
 
-<glossentry id="ангин"><glossterm>АНГИН (индон. angin)</glossterm>
+<glossentry id="ангин"><glossterm>Ангин (индон. angin)</glossterm>
 
 <glossdef><para>Бриз на о-вах Малайзии: А. дарат (A. darat) —
 береговой бриз; А. лаут (A. laut) — морской бриз.</para></glossdef>
+</glossentry>
+
+<glossentry id="ангин-рибут"><glossterm>Ангин рибут</glossterm>
+
+<glossdef><para>См.&nbsp;<glossterm linkend="рибут">Рибут</glossterm>.
+</para></glossdef>
+</glossentry>
+
+<glossentry id="ангренский-ветер"><glossterm>Ангренский ветер</glossterm>
+
+<glossdef><para>Горный ветер в Ангрене.  Сток относительно холодного
+воздуха с гор в Ангренскую долину (Средняя Азия).  В нижней части
+долины воздушный поток уже достаточно прогрет за счет адиабатического
+сжатия и приобретает черты фёна.</para></glossdef>
+</glossentry>
+
+<glossentry id="андер"><glossterm>Андер, андро (диал. итал. andre, andro)</glossterm>
+
+<glossdef><para>Умеренный, иногда сильный южный ветер на
+оз.&nbsp;Гарда (Италия).</para></glossdef></glossentry>
+
+<glossentry id="анкомбр"><glossterm>Анкомбр (фр. encombres)</glossterm>
+
+<glossdef><para>Северный ветер при малооблачной погоде, дующий с
+перевала в Сен-Мартен-ла-Порт (Франция).</para></glossdef>
+</glossentry>
+
+<glossentry id="антибриз"><glossterm>Антибриз</glossterm>
+
+<glossdef><para>Верхняя ветвь бризовой циркуляции, направленная
+противоположно нижней ветви&nbsp;— <glossterm
+linkend="бриз">бризу</glossterm>.</para></glossdef>
 </glossentry>
 
 </glossdiv>
