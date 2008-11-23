@@ -62,6 +62,8 @@ sub first_term {
 
 sub id_from_term {
     my $term = shift;
+
+    $term =~ s/[,\(].*$//;
     $term =~ s/\s+$//s;
     $term =~ s/\s/-/g;
     $term = lc($term);
