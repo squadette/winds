@@ -26,11 +26,13 @@ while (my $para = <STDIN>) {
 
 	$first = 0;
     } else {
-
+	$para = process_markup($para);
 
 	print qq{<para>$para</para>};
     }
 }
+print qq{</glossdef>\n</glossentry>\n\n};
+
 
 sub first_term {
     my $line = shift;
@@ -51,4 +53,32 @@ sub id_from_term {
     $term = lc($term);
 
     return $term;
+}
+
+sub process_markup {
+    my $para = shift;
+
+    $para =~ s/</&lt;/g;
+    $para =~ s/>/&gt;/g;
+
+    $para =~ s/~/&nbsp;/g;
+
+    $para =~ s/\n/ /gs;
+
+    $para =~ s/\[\[(.*?)\]\]/glossterm($1)/gex;
+
+    return $para;
+}
+
+sub glossterm {
+    my $term = shift;
+
+    my $id;
+    if ($term =~ /^(.*)\|(.*)$/) {
+	$id = id_from_term($2);
+	$term = $1;
+    } else {
+	$id = id_from_term($term);
+    }
+    return qq{<glossterm linkend="$id">$term</glossterm>};
 }
