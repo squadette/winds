@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
-                "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd">
- 
+                "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd" [
+<!ENTITY a01 SYSTEM "01-a.xml">
+<!ENTITY b02 SYSTEM "02-b.xml">
+]>
+
 <book>
 <bookinfo>
    
@@ -357,7 +360,7 @@ linkend="муссон">Муссон</glossterm>.</para></glossdef>
 
 <glossentry id="аир-де-картахена"><glossterm>Аир де Картахена</glossterm>
 
-<glossdef>См.&nbsp;<glossterm linkend="левече">Левече</glossterm>.</glossdef>
+<glossdef><para>См.&nbsp;<glossterm linkend="левече">Левече</glossterm>.</para></glossdef>
 </glossentry>
 
 <glossentry id="айрон-винд"><glossterm>Айрон винд (англ, iron wind — железный ветер)</glossterm>
@@ -404,7 +407,7 @@ linkend="тьемпо-дель-монте">Тьемпо дель
 Альпах.</para></glossdef>
 </glossentry>
 
-<glossentry id="алсион-дейз">Алсион дейз (англ. halcyon days)</glossentry>
+<glossentry id="алсион-дейз"><glossterm>Алсион дейз (англ. halcyon days)</glossterm></glossentry>
 
 <glossdef><para>Спокойные дни, тихая солнечная погода в Англии в
 период зимнего солнцестояния.  Ср.&nbsp;<glossterm
@@ -575,7 +578,11 @@ linkend="имбат">Имбат</glossterm>.</para></glossdef>
 linkend="бриз">бризу</glossterm>.</para></glossdef>
 </glossentry>
 
+&a01;
+
 </glossdiv>
+
+<glossdiv><title>Б</title>&b02;</glossdiv>
 
 <glossdiv><title>В</title>
 
