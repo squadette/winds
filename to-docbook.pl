@@ -20,9 +20,23 @@ while (my $para = <STDIN>) {
 	my $terms = $1;
 	$terms =~ s/\s+$//s;
 	my $id = id_from_term(first_term($terms));
+
+	my $equiv = undef;
+
+	if ($terms =~ /^(.*) = (.*)$/) {
+	    $terms = $1;
+	    $equiv = $2;
+	}
+
 	print qq{<glossentry id=\"$id\"><glossterm>$terms</glossterm>
 
 <glossdef>};
+
+	if ($equiv) {
+	    $equiv = process_markup($equiv);
+	    print qq{<para>$equiv</para>\n};
+	}
+
 
 	$first = 0;
     } else {
@@ -58,12 +72,14 @@ sub id_from_term {
 sub process_markup {
     my $para = shift;
 
-    $para =~ s/</&lt;/g;
-    $para =~ s/>/&gt;/g;
+    $para =~ s/<</&lt;&lt;/g;
+    $para =~ s/>>/&gt;&gt;/g;
 
     $para =~ s/~/&nbsp;/g;
 
     $para =~ s/\n/ /gs;
+
+    $para =~ s/@\[\[/См.&nbsp;[[/g;
 
     $para =~ s/\[\[(.*?)\]\]/glossterm($1)/gex;
 
