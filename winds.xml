@@ -4,6 +4,7 @@
                 "http://www.oasis-open.org/docbook/xml/4.4/docbookx.dtd" [
 <!ENTITY a01 SYSTEM "01-a.xml">
 <!ENTITY b02 SYSTEM "02-b.xml">
+<!ENTITY v03 SYSTEM "03-v.xml">
 ]>
 
 <book>
@@ -465,7 +466,7 @@ linkend="доктор">Доктор</glossterm>.</para></glossdef>
 <glossentry id="аль-де-марс"><glossterm>Аль де марс (фр. hale de mars)</glossterm>
 
 <glossdef><para>Сухой и холодный северный, северо-восточный или
-восточный ветер (виз) в районе горного массива Морван и в ряде районов
+восточный ветер (биз) в районе горного массива Морван и в ряде районов
 деп.&nbsp;Юра (Франция).</para></glossdef>
 </glossentry>
 
@@ -584,15 +585,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 
 <glossdiv><title>Б</title>&b02;</glossdiv>
 
-<glossdiv><title>В</title>
+<glossdiv><title>В</title>&v03;</glossdiv>
 
-<glossentry id="ветры-на-дунае"><glossterm>Ветры на Дунае</glossterm>
-
-<glossdef><para>Полночь, пивнич, пулноч, северяк и северац (С); южак
-(Ю, ЮВ); абаза (В, СВ); карасль (ЮЗ).</para></glossdef>
-</glossentry>
-
-</glossdiv>
 </glossary>
 
 </book>
