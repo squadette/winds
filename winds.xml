@@ -5,6 +5,7 @@
 <!ENTITY a01 SYSTEM "01-a.xml">
 <!ENTITY b02 SYSTEM "02-b.xml">
 <!ENTITY v03 SYSTEM "03-v.xml">
+<!ENTITY g04 SYSTEM "04-g.xml">
 ]>
 
 <book>
