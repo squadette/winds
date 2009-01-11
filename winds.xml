@@ -9,6 +9,7 @@
 <!ENTITY d05 SYSTEM "05-d.xml">
 <!ENTITY e06 SYSTEM "06-e.xml">
 <!ENTITY zh07 SYSTEM "07-zh.xml">
+<!ENTITY z08 SYSTEM "08-z.xml">
 ]>
 
 <book>
@@ -598,6 +599,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>Е</title>&e06;</glossdiv>
 
 <glossdiv><title>Ж</title>&zh07;</glossdiv>
+
+<glossdiv><title>З</title>&zh07;</glossdiv>
 
 </glossary>
 
