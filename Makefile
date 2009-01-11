@@ -15,3 +15,7 @@ index.html: winds.xml
 %.xml: %.txt to-docbook.pl
 	./to-docbook.pl < $< > $@.tmp
 	mv $@.tmp $@
+
+.PHONY: stat
+stat:
+	wc -w *.txt
