@@ -10,6 +10,7 @@
 <!ENTITY e06 SYSTEM "06-e.xml">
 <!ENTITY zh07 SYSTEM "07-zh.xml">
 <!ENTITY z08 SYSTEM "08-z.xml">
+<!ENTITY i09 SYSTEM "09-i.xml">
 ]>
 
 <book>
