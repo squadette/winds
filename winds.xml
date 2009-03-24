@@ -13,6 +13,7 @@
 <!ENTITY i09 SYSTEM "09-i.xml">
 <!ENTITY k10 SYSTEM "10-k.xml">
 <!ENTITY l11 SYSTEM "11-l.xml">
+<!ENTITY m12 SYSTEM "12-m.xml">
 ]>
 
 <book>
@@ -610,6 +611,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>К</title>&k10;</glossdiv>
 
 <glossdiv><title>Л</title>&l11;</glossdiv>
+
+<glossdiv><title>М</title>&m12;</glossdiv>
 
 </glossary>
 
