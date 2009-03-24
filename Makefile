@@ -12,8 +12,8 @@ index.html: winds.xml
 	xsltproc --nonet -o $@ winds.xsl $<
 	cp index.html winds.css ~/public_html/winds/
 
-%.xml: %.txt to-docbook.pl
-	./to-docbook.pl < $< > $@.tmp
+%.xml: %.txt to-docbook.pl Makefile
+	./to-docbook.pl < $< | fmt > $@.tmp
 	mv $@.tmp $@
 
 .PHONY: stat
