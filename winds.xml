@@ -23,6 +23,7 @@
 <!ENTITY u19 SYSTEM "19-u.xml">
 <!ENTITY f20 SYSTEM "20-f.xml">
 <!ENTITY h21 SYSTEM "21-h.xml">
+<!ENTITY c22 SYSTEM "22-c.xml">
 ]>
 
 <book>
@@ -640,6 +641,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>Ф</title>&f20;</glossdiv>
 
 <glossdiv><title>Х</title>&h21;</glossdiv>
+
+<glossdiv><title>Ц</title>&c22;</glossdiv>
 
 </glossary>
 
