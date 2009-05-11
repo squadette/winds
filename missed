@@ -13,7 +13,6 @@ Error: no ID for constraint linkend: пассат.
 Error: no ID for constraint linkend: нижний-ветер.
 Error: no ID for constraint linkend: этезия.
 Error: no ID for constraint linkend: стоячие-горные-волны.
-Error: no ID for constraint linkend: чинук.
 Error: no ID for constraint linkend: восточные-ветры-на-юге-etc-и-на-северном-кавказе.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: пыльная-буря.
@@ -56,7 +55,6 @@ Error: no ID for constraint linkend: валлшиер-тальвинд.
 Error: no ID for constraint linkend: копа-шторм.
 Error: no ID for constraint linkend: ван-прюссен.
 Error: no ID for constraint linkend: трамонтана.
-Error: no ID for constraint linkend: чинук.
 Error: no ID for constraint linkend: румб.
 Error: no ID for constraint linkend: балаклавская-буря.
 Error: no ID for constraint linkend: пыльная-буря.
@@ -94,14 +92,12 @@ Error: no ID for constraint linkend: эби.
 Error: no ID for constraint linkend: пыльные-вихри.
 Error: no ID for constraint linkend: шквал.
 Error: no ID for constraint linkend: гарма-кан.
-Error: no ID for constraint linkend: чинук.
 Error: no ID for constraint linkend: шамал.
 Error: no ID for constraint linkend: большой-шатал.
 Error: no ID for constraint linkend: пыльные-вихри.
 Error: no ID for constraint linkend: баз.
 Error: no ID for constraint linkend: мельтеми.
 Error: no ID for constraint linkend: этезии.
-Error: no ID for constraint linkend: чилик.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: эмбатис.
 Error: no ID for constraint linkend: восточняки.
@@ -128,7 +124,6 @@ Error: no ID for constraint linkend: мельтеми.
 Error: no ID for constraint linkend: этеэии.
 Error: no ID for constraint linkend: брикфильдер.
 Error: no ID for constraint linkend: ревилья-хихедо.
-Error: no ID for constraint linkend: чубаско.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: афер.
 Error: no ID for constraint linkend: виз.
@@ -142,7 +137,6 @@ Error: no ID for constraint linkend: вафф.
 Error: no ID for constraint linkend: цэюй-фын.
 Error: no ID for constraint linkend: бури-равноденствия.
 Error: no ID for constraint linkend: липе.
-Error: no ID for constraint linkend: черноморский-норд-ост.
 Error: no ID for constraint linkend: бора-скура.
 Error: no ID for constraint linkend: липе.
 Error: no ID for constraint linkend: стоковый-ветер.
@@ -168,8 +162,6 @@ Error: no ID for constraint linkend: этезии.
 Error: no ID for constraint linkend: контесса-ди-вето.
 Error: no ID for constraint linkend: волнообразные-облака.
 Error: no ID for constraint linkend: горные-волны.
-Error: no ID for constraint linkend: черноморский-моряк.
-Error: no ID for constraint linkend: черноморская-бриза.
 Error: no ID for constraint linkend: хохлачий-ветер.
 Error: no ID for constraint linkend: тропические-муссоны.
 Error: no ID for constraint linkend: муссонный-угол.
@@ -184,13 +176,11 @@ Error: no ID for constraint linkend: катабатический-ветер.
 Error: no ID for constraint linkend: северо-восточный-пассат-северного-полушария.
 Error: no ID for constraint linkend: катабатический-ветер.
 Error: no ID for constraint linkend: стоковый-ветер.
-Error: no ID for constraint linkend: гелм].--ср. [[арка-чинука.
 Error: no ID for constraint linkend: лизье.
 Error: no ID for constraint linkend: этезии.
 Error: no ID for constraint linkend: эцвинд.
 Error: no ID for constraint linkend: австр.
 Error: no ID for constraint linkend: пфёндер-винд.
-Error: no ID for constraint linkend: чубаско.
 Error: no ID for constraint linkend: бад-и-сад-о-бистроэ.
 Error: no ID for constraint linkend: иохвинд.
 Error: no ID for constraint linkend: сильные-ветры-на-оз.-иссык-куль.
@@ -222,7 +212,6 @@ Error: no ID for constraint linkend: кесспинк.
 Error: no ID for constraint linkend: скатерть.
 Error: no ID for constraint linkend: юго-западный-муссон-западной-африки.
 Error: no ID for constraint linkend: северо-африканские-бури.
-Error: no ID for constraint linkend: чибухлинский-ветер.
 Error: no ID for constraint linkend: пыльные-бури.
 Error: no ID for constraint linkend: тропические-муссоны.
 Error: no ID for constraint linkend: бад-и-сад-о-би-строз.
@@ -237,7 +226,6 @@ Error: no ID for constraint linkend: этезии.
 Error: no ID for constraint linkend: эльвегуст.
 Error: no ID for constraint linkend: силян.
 Error: no ID for constraint linkend: восточно-африканское-струйное-течение.
-Error: no ID for constraint linkend: черноморский-моряк.
 Error: no ID for constraint linkend: катабатический-ветер.
 Error: no ID for constraint linkend: варвар.
 Error: no ID for constraint linkend: австр.
@@ -264,9 +252,7 @@ Error: no ID for constraint linkend: стоковый-ветер.
 Error: no ID for constraint linkend: фёна.
 Error: no ID for constraint linkend: греголь.
 Error: no ID for constraint linkend: решабар.
-Error: no ID for constraint linkend: чили.
 Error: no ID for constraint linkend: шерги.
-Error: no ID for constraint linkend: черноморский-моряк.
 Error: no ID for constraint linkend: альпенфён.
 Error: no ID for constraint linkend: горные-волны.
 Error: no ID for constraint linkend: эвр.
@@ -289,4 +275,9 @@ Error: no ID for constraint linkend: кроацкий-ветер.
 Error: no ID for constraint linkend: желтый-ветер.
 Error: no ID for constraint linkend: шурга.
 Error: no ID for constraint linkend: черная-бора.
+Error: no ID for constraint linkend: хый-фын.
+Error: no ID for constraint linkend: ?«з-нуар.
+Error: no ID for constraint linkend: караэль.
+Error: no ID for constraint linkend: хый-фын.
+Error: no ID for constraint linkend: белый-отан.
 Writing index.html for book
