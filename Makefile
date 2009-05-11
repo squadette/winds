@@ -9,9 +9,9 @@ index.html: winds.xsl
 index.html: ${XML_FILES}
 
 index.html: winds.xml
-	xsltproc --nonet -o $@ winds.xsl $< 2> missed.txt
-	cat missed.txt
-	wc -l missed.txt
+	xsltproc --nonet -o $@ winds.xsl $< 2> missed
+	cat missed
+	wc -l missed
 	cp index.html winds.css ~/public_html/winds/
 
 %.xml: %.txt to-docbook.pl Makefile
