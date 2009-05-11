@@ -13,7 +13,7 @@ index.html: winds.xml
 	cp index.html winds.css ~/public_html/winds/
 
 %.xml: %.txt to-docbook.pl Makefile
-	./to-docbook.pl < $< | fmt > $@.tmp
+	./to-docbook.pl < $< | fmt -w 130 > $@.tmp
 	mv $@.tmp $@
 
 .PHONY: stat
