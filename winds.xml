@@ -19,6 +19,7 @@
 <!ENTITY p15 SYSTEM "15-p.xml">
 <!ENTITY r16 SYSTEM "16-r.xml">
 <!ENTITY s17 SYSTEM "17-s.xml">
+<!ENTITY t18 SYSTEM "18-t.xml">
 ]>
 
 <book>
@@ -628,6 +629,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>Р</title>&r16;</glossdiv>
 
 <glossdiv><title>С</title>&s17;</glossdiv>
+
+<glossdiv><title>Т</title>&t18;</glossdiv>
 
 </glossary>
 
