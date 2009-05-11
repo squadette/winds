@@ -20,6 +20,8 @@
 <!ENTITY r16 SYSTEM "16-r.xml">
 <!ENTITY s17 SYSTEM "17-s.xml">
 <!ENTITY t18 SYSTEM "18-t.xml">
+<!ENTITY u19 SYSTEM "19-u.xml">
+<!ENTITY f20 SYSTEM "20-f.xml">
 ]>
 
 <book>
@@ -631,6 +633,10 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>С</title>&s17;</glossdiv>
 
 <glossdiv><title>Т</title>&t18;</glossdiv>
+
+<glossdiv><title>У</title>&u19;</glossdiv>
+
+<glossdiv><title>Ф</title>&f20;</glossdiv>
 
 </glossary>
 
