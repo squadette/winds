@@ -26,6 +26,7 @@
 <!ENTITY c22 SYSTEM "22-c.xml">
 <!ENTITY ch23 SYSTEM "23-ch.xml">
 <!ENTITY sh24 SYSTEM "24-sh.xml">
+<!ENTITY ie29 SYSTEM "29-ie.xml">
 ]>
 
 <book>
@@ -649,6 +650,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>Ч</title>&ch23;</glossdiv>
 
 <glossdiv><title>Ш</title>&sh24;</glossdiv>
+
+<glossdiv><title>Э</title>&ie29;</glossdiv>
 
 </glossary>
 
