@@ -28,6 +28,7 @@
 <!ENTITY sh24 SYSTEM "24-sh.xml">
 <!ENTITY ie29 SYSTEM "29-ie.xml">
 <!ENTITY yu30 SYSTEM "30-yu.xml">
+<!ENTITY ya33 SYSTEM "33-ya.xml">
 ]>
 
 <book>
@@ -655,6 +656,8 @@ linkend="бриз">бризу</glossterm>.</para></glossdef>
 <glossdiv><title>Э</title>&ie29;</glossdiv>
 
 <glossdiv><title>Ю</title>&yu30;</glossdiv>
+
+<glossdiv><title>Я</title>&ya33;</glossdiv>
 
 </glossary>
 
