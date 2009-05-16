@@ -1,9 +1,10 @@
 <glossentry id="валлишер-тальвинд"><glossterm>Валлишер тальвинд (нем. Wallischer
 Tahlwind)</glossterm>
 
-<glossdef><para>Регулярный западный дневной долинный ветер с хорошей
-погодой на берегах Женевского озера.  Проникает вдоль русла р.&nbsp;Роны
-вплоть до Брига.  Отличается значительной скоростью и постоянством
+<glossdef><para>Регулярный западный дневной <glossterm
+linkend="долинный-ветер">долинный ветер</glossterm> с хорошей погодой на
+берегах Женевского озера.  Проникает вдоль русла р.&nbsp;Роны вплоть
+до Брига.  Отличается значительной скоростью и постоянством
 направления. Ср.&nbsp;<glossterm linkend="биз">Биз</glossterm>.  </para></glossdef> </glossentry>
 
 <glossentry id="валлоне"><glossterm>Валлоне (фр. vallonet)</glossterm>
@@ -13,17 +14,22 @@ Tahlwind)</glossterm>
 
 <glossentry id="валэ"><glossterm>Валэ (фр. valais)</glossterm>
 
-<glossdef><para>Долинный ветер, дующий с верховий Женевского озера
-в кантоне Валлис, Швейцария.  Устойчивость ветра и большая
-его повторяемость задерживают рост деревьев.  Ср.&nbsp;<glossterm
-linkend="валлшиер-тальвинд">Валлшиер тальвинд</glossterm>.   </para><para>Валь фруад
-(фр. val froide)  </para><para>Теплый ветер перед дождем весной и летом в Савойе
-(Франция).  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="долинный-ветер">Долинный ветер</glossterm>, дующий с
+верховий Женевского озера в кантоне Валлис, Швейцария.  Устойчивость
+ветра и большая его повторяемость задерживают рост деревьев.
+Ср.&nbsp;<glossterm linkend="валлишер-тальвинд">Валлишер тальвинд</glossterm>.
+</para></glossdef> </glossentry>
+
+<glossentry id="валь-фруад"><glossterm>Валь фруад (фр. val froide)</glossterm>
+
+<glossdef><para>Теплый ветер перед дождем весной и летом в Савойе (Франция).
+</para></glossdef> </glossentry>
 
 <glossentry id="вам-андаи"><glossterm>Вам-андаи (wam-andai)</glossterm>
 
 <glossdef><para>Сильный порыв западного ветра в период зимнего
-северо-западного муссона на западе Новой Гвинеи.  </para></glossdef> </glossentry>
+северо-западного <glossterm linkend="муссон">муссона</glossterm> на западе Новой
+Гвинеи.  </para></glossdef> </glossentry>
 
 <glossentry id="вам-бро"><glossterm>Вам Бро</glossterm>
 
@@ -36,27 +42,29 @@ linkend="валлшиер-тальвинд">Валлшиер тальвинд</g
 
 <glossentry id="ван-блан"><glossterm>Ван-блан (фр. vent blanc)</glossterm>
 
-<glossdef><para>Белый ветер, сухой и теплый, сопровождающийся хорошей
-погодой во Франции.  В деп.&nbsp;Ду, Юра, Верхняя Савойя, Изер и др. он
-преимущественно юго-западный, на юго-западе Центрального массива&nbsp;—
-восточный.  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="белый-ветер">Белый ветер</glossterm>, сухой и теплый,
+сопровождающийся хорошей погодой во Франции.  В деп.&nbsp;Ду, Юра,
+Верхняя Савойя, Изер и др. он преимущественно юго-западный, на
+юго-западе Центрального массива&nbsp;-- восточный.  </para></glossdef> </glossentry>
 
 <glossentry id="ван-д'ан-о"><glossterm>Ван д'ан о (фр. vent d'en haut)</glossterm>
 
-<glossdef><para>Верховой ветер во Франции.  В деп.&nbsp;Па-де-Кале это
-северо-восточный ветер, обычно сухой, в деп.&nbsp;Кальвадос его называют
-амон; в деп.&nbsp;Коррез это черный ветер, на склонах гор в междуречье
-рек Маас и Мозель его называют <glossterm linkend="ван-де-ла-плюй">ван де ла
-плюй</glossterm>.  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="верховой-ветер">Верховой ветер</glossterm> во
+Франции.  В деп.&nbsp;Па-де-Кале это северо-восточный ветер, обычно
+сухой, в деп.&nbsp;Кальвадос его называют <glossterm linkend="амон">амон</glossterm>;
+в деп.&nbsp;Коррез это <glossterm linkend="черный-ветер">черный ветер</glossterm>,
+на склонах гор в междуречье рек Маас и Мозель его называют <glossterm
+linkend="ван-де-ла-плюи">ван де ла плюи</glossterm>.  </para></glossdef> </glossentry>
 
 <glossentry id="ван-де-ба"><glossterm>Ван де ба (фр. vent de bas)</glossterm>
 
-<glossdef><para>Низовой ветер с дождем во Франции.  В деп.&nbsp;Де-Севр — южный,
-в деп.&nbsp;Коррез и Па-де-Кале&nbsp;— юго-западный или южный (шуйер);
-на Нормандской возвышенности, в деп.&nbsp;Юра, как и в ряде других
-департаментов, его называют авал.  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="низовой-ветер">Низовой ветер</glossterm> с дождем во
+Франции.  В деп.&nbsp;Де-Севр&nbsp;-- южный, в деп.&nbsp;Коррез и Па-де-Кале&nbsp;--
+юго-западный или южный (<glossterm linkend="шуйер">шуйер</glossterm>); на Нормандской
+возвышенности, в деп.&nbsp;Юра, как и в ряде других департаментов, его
+называют <glossterm linkend="авал">авал</glossterm>.  </para></glossdef> </glossentry>
 
-<glossentry id="ван-де-байонн"><glossterm>Ван де байонн (фр. vent de bayonne~— байоннский
+<glossentry id="ван-де-байонн"><glossterm>Ван де байонн (фр. vent de bayonne~-- байоннский
 ветер)</glossterm>
 
 <glossdef><para>Умеренный юго-западный ветер в деп. Жер (Франция), западный
@@ -64,55 +72,57 @@ linkend="валлшиер-тальвинд">Валлшиер тальвинд</g
 растительности.  Ср.&nbsp;<glossterm linkend="барран">Барран</glossterm>.  </para></glossdef>
 </glossentry>
 
-<glossentry id="ван-де-вале-д'азерг"><glossterm>Ван де вале д'Азерг (фр. vent de la vallee
-d'Azergue)</glossterm>
+<glossentry id="ван-де-вале-д'азерг"><glossterm>Ван де вале д'Азерг (фр. vent de la
+vall&eacute;e d'Azergue)</glossterm>
 
 <glossdef><para>Южный ветер, дующий севернее Лиона в Вильфранш-сюр-Соне
 (Франция).  </para></glossdef> </glossentry>
 
-<glossentry id="ван-де-дам"><glossterm>Ван де дам, лиссеро (фр. vent des dames — дамский
+<glossentry id="ван-де-дам"><glossterm>Ван де дам, лиссеро (фр. vent des dames~-- дамский
 ветер, lissero)</glossterm>
 
-<glossdef><para>Свежий морской юго-западный ветер (бриз) в восточной части
-дельты р.&nbsp;Роны.  Проникает в глубь континента на 20—30 км.  Иногда
-достигает скорости 12 м/с.  </para></glossdef> </glossentry>
+<glossdef><para>Свежий морской юго-западный ветер (<glossterm
+linkend="бриз">бриз</glossterm>) в восточной части дельты р.&nbsp;Роны.  Проникает
+в глубь континента на 20--30&nbsp;км.  Иногда достигает скорости 12&nbsp;м/с.
+</para></glossdef> </glossentry>
 
 <glossentry id="ван-де-лангр"><glossterm>Ван де Лангр (фр. vent de Langres)</glossterm>
 
 <glossdef><para>Северный или северо-западный ветер в Безансоне (Франция),
 дующий со стороны Лангра.  </para></glossdef> </glossentry>
 
-<glossentry id="ван-де-ла-плюй"><glossterm>Ван де ла плюй (фр. vent de la pluie —
+<glossentry id="ван-де-ла-плюи"><glossterm>Ван де ла плюи (фр. vent de la pluie~--
 дождливый)</glossterm>
 
-<glossdef><para>Ветер с дождем во Франции.  В деп.&nbsp;Жер — юго-западный,
-в деп.&nbsp;Ло (его называют плюцаль) и деп.&nbsp;Аверон (в Руэрге)&nbsp;—
-западный, в деп.&nbsp;Изер&nbsp;— южный, в бассейне р.&nbsp;Соны&nbsp;—
+<glossdef><para>Ветер с дождем во Франции.  В деп.&nbsp;Жер&nbsp;-- юго-западный,
+в деп.&nbsp;Ло (его называют плюцаль) и деп.&nbsp;Аверон (в Руэрге)&nbsp;--
+западный, в деп.&nbsp;Изер&nbsp;-- южный, в бассейне р.&nbsp;Соны&nbsp;--
 северо-восточный.  </para></glossdef> </glossentry>
 
-<glossentry id="ван-де-ла-пуссе"><glossterm>Ван де ла пуссе (фр. vent de la poussee)</glossterm>
+<glossentry id="ван-де-ла-пуссе"><glossterm>Ван де ла пуссе (фр. vent de la pouss&eacute;e)</glossterm>
 
-<glossdef><para>Весенний юго-восточный белый ветер в Лионе (Франция).
-Сопровождается хорошей погодой.  Благоприятен для развития листвы
-на деревьях.  </para></glossdef> </glossentry>
+<glossdef><para>Весенний юго-восточный <glossterm linkend="белый-ветер">белый
+ветер</glossterm> в Лионе (Франция). Сопровождается хорошей погодой.
+Благоприятен для развития листвы на деревьях.  </para></glossdef> </glossentry>
 
 <glossentry id="ван-де-монлюэль"><glossterm>Ван де монлюэль (фр. vent de montluel)</glossterm>
 
-<glossdef><para>Южный или юго-восточный белый ветер на территории Домб и
-Брес (восток Франции), дующий из Монлюэля (Мон-Луи).  Безоблачное небо
-при этом сухом ветре затягивается молочно-белой дымкой.  Дует по
-нескольку дней подряд.  </para></glossdef> </glossentry>
+<glossdef><para>Южный или юго-восточный <glossterm linkend="белый-ветер">белый
+ветер</glossterm> на территории Домб и Брес (восток Франции), дующий из
+Монлюэля (Мон-Луи).  Безоблачное небо при этом сухом ветре затягивается
+молочно-белой дымкой.  Дует по нескольку дней подряд.  </para></glossdef>
+</glossentry>
 
-<glossentry id="ван-де-ретур"><glossterm>Ван де ретур (фр. vent de retour — возвратный,
+<glossentry id="ван-де-ретур"><glossterm>Ван де ретур (фр. vent de retour~-- возвратный,
 противоположный)</glossterm>
 
 <glossdef><para>Юго-западный ветер на юге Канарских островов.
-Противоположен северо-восточному пассату, обдувающему северные
-берега островов. Ср. <glossterm linkend="контрастес">Контрастес</glossterm>,
-<glossterm linkend="джиллз-винд">Джиллз винд</glossterm>, <glossterm
-linkend="копа-шторм">Копа-шторм</glossterm>.  </para></glossdef> </glossentry>
+Противоположен <glossterm linkend="северо-восточный-пассат">северо-восточному
+пассату</glossterm>, обдувающему северные берега островов.  Ср.&nbsp;<glossterm
+linkend="контрастес">Контрастес</glossterm>, <glossterm linkend="джиллз-винд">Джиллз
+винд</glossterm>, <glossterm linkend="кона-шторм">Кона-шторм</glossterm>.  </para></glossdef> </glossentry>
 
-<glossentry id="ван-де-севено"><glossterm>Ван де севено (фр. vent de ceveno)</glossterm>
+<glossentry id="ван-де-севено"><glossterm>Ван де севено (фр. vent de c&eacute;v&eacute;no)</glossterm>
 
 <glossdef><para>Востоко-юго-восточный ветер в деп.&nbsp;Аверон (Франция),
 дующий с гор.  </para></glossdef> </glossentry>
@@ -120,8 +130,9 @@ linkend="копа-шторм">Копа-шторм</glossterm>.  </para></glossde
 <glossentry id="ван-де-суле"><glossterm>Ван де суле (фр. vent de souleu — солнечный
 ветер)</glossterm>
 
-<glossdef><para>Прованское название спокойного и легкого солнечного
-(гелиотропического) ветра.  </para></glossdef> </glossentry>
+<glossdef><para>Прованское название спокойного и легкого <glossterm
+linkend="солнечный-ветер">солнечного (гелиотропического) ветра</glossterm>.
+</para></glossdef> </glossentry>
 
 <glossentry id="ван-д'итали"><glossterm>Ван д'Итали (фр. vent d'Italie)</glossterm>
 
@@ -129,11 +140,12 @@ linkend="копа-шторм">Копа-шторм</glossterm>.  </para></glossde
 районах Франции, прилегающих к итальянской границе.  См.&nbsp;<glossterm
 linkend="ломбард">Ломбард</glossterm>.  </para></glossdef> </glossentry>
 
-<glossentry id="ван-д'эспань"><glossterm>Ван д'Эспань (фр. vent d'Espagne — испанский
-ветер), альбе</glossterm>
+<glossentry id="ван-д'эспань"><glossterm>Ван д'Эспань (фр. vent d'Espagne~-- испанский
+ветер), [[альбе]]</glossterm>
 
-<glossdef><para>Западный или юго-западный теплый и сухой ветер типа фёна,
-дующий на юге Франции с Пиренеев.  </para></glossdef> </glossentry>
+<glossdef><para>Западный или юго-западный теплый и сухой ветер типа <glossterm
+linkend="фён">фёна</glossterm>, дующий на юге Франции с Пиренеев.  </para></glossdef>
+</glossentry>
 
 <glossentry id="ван-дю-миди"><glossterm>Ван дю миди (фр. vent du midi)</glossterm>
 
@@ -156,14 +168,14 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 
 <glossentry id="ван-марен"><glossterm>Ван марен (фр. vent marin)</glossterm>
 
-<glossdef><para><glossterm linkend="биз">Биз</glossterm> вблизи Тулона (Франция).
-Ср.См.&nbsp;<glossterm linkend="марен">Марен</glossterm>.   </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="биз">Биз</glossterm> вблизи Тулона (Франция).  Ср.&nbsp;<glossterm
+linkend="марен">Марен</glossterm>.   </para></glossdef> </glossentry>
 
 <glossentry id="ван-му"><glossterm>Ван му</glossterm>
 
 <glossdef><para>См.&nbsp;<glossterm linkend="оро-бассо">Оро бассо</glossterm>.</para> </glossdef> </glossentry>
 
-<glossentry id="ван-негр"><glossterm>Ван негр (фр. vent negre)</glossterm>
+<glossentry id="ван-негр"><glossterm>Ван негр (фр. vent n&egrave;gre)</glossterm>
 
 <glossdef><para>Юго-западный или северо-западный ветер с дождем в
 деп.&nbsp;Аверон, северный ветер с дождем в деп.&nbsp;Ло (Франция).
@@ -176,7 +188,7 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 облачностью.  См.&nbsp;<glossterm linkend="ван-негр">Ван негр</glossterm>.  </para></glossdef>
 </glossentry>
 
-<glossentry id="ван-0-брюлан"><glossterm>Ван-0-брюлан (фр. vent au brulant)</glossterm>
+<glossentry id="ван-о-брюлан"><glossterm>Ван-о-брюлан (фр. vent au brulant)</glossterm>
 
 <glossdef><para>Южный ветер на Нормандской возвышенности (Франция).
 </para></glossdef> </glossentry>
@@ -187,7 +199,7 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 в межгорье рек Мозель и Маас, в бассейне р.&nbsp;Орн и др.  </para></glossdef>
 </glossentry>
 
-<glossentry id="ван-прюссьен"><glossterm>Ван прюссьен (фр. vent prussien — прусский
+<glossentry id="ван-прюссьен"><glossterm>Ван прюссьен (фр. vent prussien~-- прусский
 ветер)</glossterm>
 
 <glossdef><para>См.&nbsp;<glossterm linkend="ван-лоррен">Ван Лоррен</glossterm>.</para> </glossdef>
@@ -208,9 +220,9 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 
 <glossdef><para>Юго-восточный ветер в Монтелимаре, деп.&nbsp;Дром, дующий со
 стороны горы Ванту, деп.&nbsp;Воклюз (Франция), является продолжением
-ломбарда.  </para></glossdef> </glossentry>
+<glossterm linkend="ломбард">ломбарда</glossterm>.  </para></glossdef> </glossentry>
 
-<glossentry id="вантурезо"><glossterm>Вантурезо (фр. ventoureso)</glossterm>
+<glossentry id="вантурезо"><glossterm>Вантурезо (фр. ventour&eacute;so)</glossterm>
 
 <glossdef><para>Северо-восточный ветер в Провансе (Франция), дующий со стороны
 горы Ванту (деп.&nbsp;Воклюз) в сторону Авиньона.  </para></glossdef> </glossentry>
@@ -228,12 +240,14 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 <glossentry id="вардар"><glossterm>Вардар, вардар винд, вардарак, вардарац,
 вардарская бора</glossterm>
 
-<glossdef><para>Холодный и сухой северо-западный стоковый ветер в районе
-Салоники. Имеет характер мистраля.  Возникает при прорыве холодного
-континентального воздуха через понижение рельефа между Балканами и
-Родопскими горами, по долине р.&nbsp;Вардар в сторону теплого Эгейского
-моря.  Ср.&nbsp;<glossterm linkend="адриатическая-бора">Адриатическая бора</glossterm>.
-См.&nbsp;<glossterm linkend="хортьятис">Хортьятис</glossterm>.  </para></glossdef> </glossentry>
+<glossdef><para>Холодный и сухой северо-западный <glossterm
+linkend="стоковый-ветер">стоковый ветер</glossterm> в районе Салоники. Имеет
+характер <glossterm linkend="мистраль">мистраля</glossterm>.  Возникает при прорыве
+холодного континентального воздуха через понижение рельефа между
+Балканами и Родопскими горами, по долине р.&nbsp;Вардар в сторону теплого
+Эгейского моря.  Ср.&nbsp;<glossterm linkend="адриатическая-бора">Адриатическая
+бора</glossterm>.  См.&nbsp;<glossterm linkend="хортьятис">Хортьятис</glossterm>.  </para></glossdef>
+</glossentry>
 
 <glossentry id="варзобский-шквал"><glossterm>Варзобский шквал</glossterm>
 
@@ -272,8 +286,8 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 
 <glossentry id="везин"><glossterm>Везин (фр. vesine)</glossterm>
 
-<glossdef><para>Дневной долинный ветер в деп.&nbsp;Дром (Франция).  </para></glossdef>
-</glossentry>
+<glossdef><para>Дневной <glossterm linkend="долинный-ветер">долинный ветер</glossterm>
+в деп.&nbsp;Дром (Франция).  </para></glossdef> </glossentry>
 
 <glossentry id="вейриэйблз"><glossterm>Вейриэйблз (англ. variables)</glossterm>
 
@@ -297,10 +311,10 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 <glossdef><para>Штормовой юго-западный или южный ветер, дующий из Марокко на
 побережье Испании, в долине р.&nbsp;Гвадалквивир, в зоне преобладания
 северо-западного ветра.  Иногда достигает силы урагана.  Вызывает
-сильное волнение в Кадисском заливе и Гибралтарском проливе.  Весной
-и осенью приносит обильные осадки.  Чаще всего наблюдается в период
-октябрь — январь.  Так же называются осенние грозовые шквалы на
-берегах Мексики.  </para></glossdef> </glossentry>
+сильное волнение в Кадисском заливе и Гибралтарском проливе.
+Весной и осенью приносит обильные осадки.  Чаще всего наблюдается
+в период октябрь--январь.  Так же называются осенние грозовые <glossterm
+linkend="шквал">шквалы</glossterm> на берегах Мексики.  </para></glossdef> </glossentry>
 
 <glossentry id="вент-авал"><glossterm>Вент авал</glossterm>
 
@@ -312,9 +326,13 @@ linkend="прусский-ветер">Прусский ветер</glossterm>.  
 
 <glossentry id="вентания"><glossterm>Вентания (порт. ventania)</glossterm>
 
-<glossdef><para>Шквал у берегов Португалии.  </para><para>Вент да мут (итал. vent
-da m&uacute;t)  </para><para>Сильный и влажный ветер на оз.&nbsp;Гарда (Италия).
-Ср.&nbsp;<glossterm linkend="оро-бассо">Оро бассо</glossterm>.  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="шквал">Шквал</glossterm> у берегов Португалии.
+</para></glossdef> </glossentry>
+
+<glossentry id="вент-да-мут"><glossterm>Вент да мут (итал. vent da m&uacute;t)</glossterm>
+
+<glossdef><para>Сильный и влажный ветер на оз.&nbsp;Гарда (Италия).  Ср.&nbsp;<glossterm
+linkend="оро-бассо">Оро бассо</glossterm>.  </para></glossdef> </glossentry>
 
 <glossentry id="вент-де-соли"><glossterm>Вент де соли (сард. vent de soli)</glossterm>
 
@@ -327,13 +345,14 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 <glossentry id="вентен"><glossterm>Вентен (фр. vingtaines)</glossterm>
 
 <glossdef><para>Холодный восточный ветер на северо-западе Франции в
-апреле—мае. Опасен в периоды цветения фруктовых деревьев.  </para></glossdef>
+апреле--мае. Опасен в периоды цветения фруктовых деревьев.  </para></glossdef>
 </glossentry>
 
 <glossentry id="венте-локу"><glossterm>Венте локу, венте рошу</glossterm>
 
-<glossdef><para>&lt;&lt;Сумасшедший ветер&gt;&gt; (фён) в Рио-де-Жанейро, возбуждающе
-действующий на нервных людей.  </para></glossdef> </glossentry>
+<glossdef><para>&lt;&lt;Сумасшедший ветер&gt;&gt; (<glossterm linkend="фён">фён</glossterm>) в
+Рио-де-Жанейро, возбуждающе действующий на нервных людей.  </para></glossdef>
+</glossentry>
 
 <glossentry id="вентиляционная-улица"><glossterm>Вентиляционная улица</glossterm>
 
@@ -342,32 +361,38 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 
 <glossentry id="венто-ди-сотто"><glossterm>Венто ди сотто (итал. vento di sotto)</glossterm>
 
-<glossdef><para>Бриз на оз.&nbsp;Гарда (Италия).  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="бриз">Бриз</glossterm> на оз.&nbsp;Гарда (Италия).  </para></glossdef>
+</glossentry>
 
 <glossentry id="венту-де-байшу"><glossterm>Венту де байшу (порт. vento de baixo)</glossterm>
 
-<glossdef><para>Бриз в Португалии.  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="бриз">Бриз</glossterm> в Португалии.  </para></glossdef> </glossentry>
 
 <glossentry id="венту-де-коаду"><glossterm>Венту де коаду (порт. vento de coado)</glossterm>
 
-<glossdef><para>Порывистый, &laquo;свистящий&raquo; ветер в ущельях и на склонах
+<glossdef><para>Порывистый, &lt;&lt;свистящий&gt;&gt; ветер в ущельях и на склонах
 гор в Португалии.  </para></glossdef> </glossentry>
 
 <glossentry id="венту-де-сима"><glossterm>Венту де сима (порт. vento de cima)</glossterm>
 
-<glossdef><para>Верховой холодный западный ветер в верховье р.&nbsp;Амазонка.
-</para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="верховой-ветер">Верховой</glossterm> холодный западный
+ветер в верховье р.&nbsp;Амазонка.  </para></glossdef> </glossentry>
 
-<glossentry id="вентуш-жераис"><glossterm>Вентуш жераис (порт. ventos gerais — общие
+<glossentry id="вентуш-жерайс"><glossterm>Вентуш жерайс (порт. ventos gerais~-- общие
 ветры)</glossterm>
 
 <glossdef><para>Сильный восточный ветер в летний сухой сезон в центральных
-штатах Бразилии.  </para><para>ВЕРН (фр. verne)  </para><para>Северо-западный ветер
-в деп.&nbsp;Марна (Франция).  </para></glossdef> </glossentry>
+штатах Бразилии.  </para></glossdef> </glossentry>
+
+<glossentry id="верн"><glossterm>Верн (фр. verne)</glossterm>
+
+<glossdef><para>Северо-западный ветер в деп.&nbsp;Марна (Франция).  </para></glossdef>
+</glossentry>
 
 <glossentry id="верхние-пассаты"><glossterm>Верхние пассаты</glossterm>
 
-<glossdef><para>Восточные ветры над антипассатами.  Обнаруживаются летом на
+<glossdef><para>Восточные ветры над <glossterm
+linkend="антипассат">антипассатами</glossterm>.  Обнаруживаются летом на
 высотах около 12&nbsp;км (изобарическая поверхность 200&nbsp;гПа), главным
 образом вдоль параллели 12°&nbsp;с.&nbsp;ш., над Филиппинскими островами,
 Южно-Китайским и Аравийским морями, югом Индии, Центральной Африкой.
@@ -377,9 +402,10 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 
 <glossdef><para>См.&nbsp;<glossterm linkend="зена-кари">Зена кари</glossterm>.</para> </glossdef> </glossentry>
 
-<glossentry id="верхний-шуйер"><glossterm>Верхний шуйер (фр. chouillere haute)</glossterm>
+<glossentry id="верхний-шуйер"><glossterm>Верхний шуйер (фр. chouill&egrave;re haute)</glossterm>
 
-<glossdef><para>Сухой восточный ветер с гор Ср.&nbsp;Шуйер.  </para></glossdef> </glossentry>
+<glossdef><para>Сухой восточный ветер с гор.  Ср.&nbsp;<glossterm
+linkend="шуйер">Шуйер</glossterm>.  </para></glossdef> </glossentry>
 
 <glossentry id="верхович"><glossterm>Верхович</glossterm>
 
@@ -387,29 +413,31 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 
 <glossentry id="верховка"><glossterm>Верховка</glossterm>
 
-<glossdef><para>1.&nbsp;Свежий морской ветер (обычно северный) на Черном море.
-2.&nbsp;Сильный ветер в ясный день, предвестник ненастья в Красноярском
-крае. 3.&nbsp;Прибыльная вода при ветровом нагоне, приливе или дожде в
-устьях реки и бухтах.  </para></glossdef> </glossentry>
+<glossdef><para>1.&nbsp;Свежий <glossterm linkend="морской-ветер">морской ветер</glossterm>
+(обычно северный) на Черном море. 2.&nbsp;Сильный ветер в ясный день,
+предвестник ненастья в Красноярском крае.  3.&nbsp;Прибыльная вода при
+ветровом нагоне, приливе или дожде в устьях реки и бухтах.  </para></glossdef>
+</glossentry>
 
-<glossentry id="верховой-ветер"><glossterm>ВЕРХОВОЙ ВЕТЕР, верховик, верховый,
-верхний, верховочка, амон (фр.),
-  хальни (польск.), бийктиктсш шамал (кнрг.), шамоли болой (тадж.),
-  кутарилувчи шамол (узб.), чайын йухарыларындан эсен кюлек
-  (азерб.)</glossterm>
+<glossentry id="верховой-ветер"><glossterm>Верховой ветер, верховик, верховый,
+верхний, верховочка,
+  [[амон]]~(фр.), [[хальни]]~(польск.), бийктиктсш шамал~(кирг.), шамоли
+  болой~(тадж.), кутарилувчи шамол~(узб.), чайын йухарыларындан эсен
+  кюлек~(азерб.)</glossterm>
 
 <glossdef><para>Ветер с верховий рек и долин.  Имеет различные направления в
 зависимости от ориентации долин.  В Заволжье это теплый юго-западный
-ветер (иногда сухой), признак наступающего ненастья; на Волге&nbsp;—
-северо-западный; в Прибайкалье&nbsp;— восточный или юго-восточный,
-признак начала плохой погоды; на Среднем Днепре&nbsp;— северо-западный;
-на Нижнем Днепре— северо-восточный; на Телецком озере&nbsp;— южный
-фён, стекающий по низовью р.&nbsp;Чулышман (при этом ветре даже в марте
-температура может подниматься до&nbsp;20&nbsp;°С, благодаря чему на южном
-берегу Телецкого озера развито полеводство); на оз.&nbsp;Байкал&nbsp;—
-баргузин, северные или северо-восточные продольные ветры; на юге
-Байкала&nbsp;— восточный ветер; в Комсомольске-на-Амуре — южный ветер
-(ср.&nbsp;<glossterm linkend="ламус">Ламус</glossterm>); на востоке Камчатки&nbsp;—
+ветер (иногда сухой), признак наступающего ненастья; на Волге&nbsp;--
+северо-западный; в Прибайкалье&nbsp;-- восточный или юго-восточный,
+признак начала плохой погоды; на Среднем Днепре&nbsp;-- северо-западный;
+на Нижнем Днепре&nbsp;-- северо-восточный; на Телецком озере&nbsp;-- южный
+<glossterm linkend="фён">фён</glossterm>, стекающий по низовью р.&nbsp;Чулышман (при
+этом ветре даже в марте температура может подниматься до&nbsp;20&nbsp;°С,
+благодаря чему на южном берегу Телецкого озера развито полеводство);
+на оз.&nbsp;Байкал&nbsp;-- <glossterm linkend="баргузин">баргузин</glossterm>, северные или
+северо-восточные <glossterm linkend="продольные-ветры">продольные ветры</glossterm>;
+на юге Байкала&nbsp;-- восточный ветер; в Комсомольске-на-Амуре&nbsp;-- южный
+ветер (ср.&nbsp;<glossterm linkend="ламус">Ламус</glossterm>); на востоке Камчатки&nbsp;—
 западный ветер с ясной погодой.  </para></glossdef> </glossentry>
 
 <glossentry id="весенний-шквал"><glossterm>Весенний шквал</glossterm>
@@ -441,17 +469,18 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 
 <glossdef><para>См.&nbsp;<glossterm linkend="ленцботе">Ленцботе</glossterm>.</para> </glossdef> </glossentry>
 
-<glossentry id="ветер"><glossterm>ВЕТЕР (от старосл. и санскрита — ватар, ветар),
-витэр (укр.), кюлейи
-  (азерб.), шамол (узб.), шамалы (кирг.), шимоли (тадж.), жил(ь) (татар.), тыал
-  (якут.), ван (фр. vent), вентус (лат. ventus), винд (англ, wind), кадзе (яп. kaze),
-  фын (кит.) и др.</glossterm>
+<glossentry id="ветер"><glossterm>ВЕТЕР (от старосл. и санскрита~-- ватар, ветар),
+витэр~(укр.),
+  кюлейи~(азерб.), шамол~(узб.), шамалы~(кирг.), шимоли~(тадж.), жил(ь)~(татар.),
+  тыал (якут.), [[ван]]~(фр.~vent), вентус~(лат. ventus), винд (англ. wind), кадзе
+  (яп. kaze), фын (кит.) и др.</glossterm>
 
-<glossdef><para>Движение воздуха относительно земной поверхности.  В. имеет
-горизонтальную и вертикальную составляющие.  Обычно рассматривают
-только первую.  В. характеризуется скоростью (м/с, км/ч, узлы) или силой
-(баллы по шкале Бофорта) и направлением&nbsp;— откуда дует ветер (румбы
-или градусы).  См.&nbsp;<glossterm linkend="румб">Румб</glossterm>.  </para></glossdef> </glossentry>
+<glossdef><para>Движение воздуха относительно земной поверхности.
+/Ветер/ имеет горизонтальную и вертикальную составляющие.  Обычно
+рассматривают только первую.  /Ветер/ характеризуется скоростью (м/с,
+км/ч, узлы) или силой (баллы по шкале Бофорта) и направлением&nbsp;-- откуда
+дует ветер (румбы или градусы).  См.&nbsp;<glossterm linkend="румб">Румб</glossterm>.
+</para></glossdef> </glossentry>
 
 <glossentry id="ветер-колесо"><glossterm>Ветер-колесо</glossterm>
 
@@ -460,36 +489,39 @@ da m&uacute;t)  </para><para>Сильный и влажный ветер на о
 <glossentry id="ветер-от-солнца"><glossterm>Ветер от Солнца, ветер из-под
 Солнца</glossterm>
 
-<glossdef><para>Солнечный ветер, дующий в теплое время года со стороны
-восходящего Солнца.  В степных районах СССР это иногда признак засухи.
+<glossdef><para><glossterm linkend="солнечный-ветер">Солнечный ветер</glossterm>, дующий в
+теплое время года со стороны восходящего Солнца.  В степных районах
+СССР это иногда признак засухи.  </para></glossdef> </glossentry>
+
+<glossentry id="ветер-пестрой-дресвы"><glossterm>Ветер Пестрой Дресвы</glossterm>
+
+<glossdef><para>Зимний северо-западный <glossterm linkend="муссон">муссон</glossterm>,
+усиливающийся в понижении и сужении Колымского хребта, в долине
+р.&nbsp;Пестрая Дресва (на северо-востоке Охотского моря).  С октября по
+апрель /ветер Пестрой Дресвы/ может сохранять штормовую скорость в
+течение длительных периодов.  На выходе из залива вода буквально кипит
+от сильного ветра, но уже в трех милях от берега ветер практически
+исчезает.  /Ветер Пестрой Дресвы/ на побережье имеет характер <glossterm
+linkend="мезоструя">мезоструи</glossterm>, усиливается на высоте около 100&nbsp;м
+над хребтом, а выше резко ослабевает.  В сужении рельефа /ветер Пестрой
+Дресвы/ представляет собой <glossterm linkend="стоковый-ветер">стоковый
+ветер</glossterm> типа <glossterm linkend="бора">боры</glossterm>.  Рыбаки и моряки
+называют /ветер Пестрой Дресвы/ <glossterm linkend="труба">трубой</glossterm>.
 </para></glossdef> </glossentry>
-
-<glossentry id="ветер-пестрой-дресвы"><glossterm>Ветер пестрой дресвы</glossterm>
-
-<glossdef><para>Зимний северо-западный муссон, усиливающийся в понижении
-и сужении Колымского хребта, в долине р.&nbsp;Пестрая Дресва (на
-северо-востоке Охотского моря).  С октября по апрель В.&nbsp;П.&nbsp;Д. может
-сохранять штормовую скорость в течение длительных периодов.  На
-выходе из залива вода буквально кипит от сильного ветра, но уже в
-трех милях от берега ветер практически исчезает.  В.&nbsp;П.&nbsp;Д.&nbsp;на
-побережье имеет характер мезоструи, усиливается на высоте около
-100&nbsp;м над хребтом, а выше резко ослабевает.  В сужении рельефа
-В. П. Д. представляет собой стоковый ветер типа боры.  Рыбаки и моряки
-называют В. П. Д. трубой.  </para></glossdef> </glossentry>
 
 <glossentry id="ветер-пустыни"><glossterm>Ветер пустыни, дезерт винд (англ. desert
 wind)</glossterm>
 
-<glossdef><para>Сухой ветер, дующий из пустыни Невада в Южную
-Калифорнию.  Днем — это горячий, а ночью холодный ветер.  Порой
-имеет разрушительную силу. Из-за поднятой ветром пыли Солнца не
-видно, небо приобретает желтоватую, а иногда свинцовую окраску.
-Неблагоприятен для человеческой деятельности.  При В. п., как при <glossterm
+<glossdef><para>Сухой ветер, дующий из пустыни Невада в Южную Калифорнию.
+Днем&nbsp;-- это горячий, а ночью холодный ветер.  Порой имеет
+разрушительную силу. Из-за поднятой ветром пыли Солнца не видно, небо
+приобретает желтоватую, а иногда свинцовую окраску.  Неблагоприятен
+для человеческой деятельности.  При /ветре пустыни/, как при <glossterm
 linkend="хамсин">хамсине</glossterm> и <glossterm linkend="сирокко">сирокко</glossterm>,
 люди страдают от удушья, слизистая оболочка носа раздражается,
-кожа трескается.  В. п. наблюдается на окраинах и других пустынь, в
-частности Каракумов.  См.&nbsp;<glossterm linkend="каракумский-ветер">Каракумский
-ветер</glossterm>.  </para></glossdef> </glossentry>
+кожа трескается.  /Ветер пустыни/ наблюдается на окраинах
+и других пустынь, в частности Каракумов. См.&nbsp;<glossterm
+linkend="каракумский-ветер">Каракумский ветер</glossterm>.  </para></glossdef> </glossentry>
 
 <glossentry id="ветер-семи-гор"><glossterm>Ветер семи гор</glossterm>
 
@@ -500,7 +532,7 @@ linkend="зибенгебиргсвинд">Зибенгебиргсвинд</glo
 
 <glossdef><para>Западный ветер на р.&nbsp;Каме.  </para></glossdef> </glossentry>
 
-<glossentry id="ветер-с-семска"><glossterm>Ветер с семска</glossterm>
+<glossentry id="ветер-с-семска"><glossterm>Ветер с Семска</glossterm>
 
 <glossdef><para>Юго-западный ветер на Псковском озере в районе
 о.&nbsp;им.&nbsp;Залита.  </para></glossdef> </glossentry>
@@ -539,8 +571,8 @@ linkend="балаклавская-буря">Балаклавская буря</g
 <glossdef><para>Шимал кюлейи&nbsp;(С), шималы-шярг кюлейи&nbsp;(СВ), шярг
 кюлейи&nbsp;(В), джануби-шярг кюлейи&nbsp;(ЮВ), джануб кюлейи&nbsp;(Ю),
 джануби-гярб кюлейи&nbsp;(ЮЗ), гярб кюлейи&nbsp;(3), шималы-гярб кюлейи&nbsp;(СЗ),
-даг кюлейи (горный ветер), дэрэ кюлейи (долинный ветер).  </para></glossdef>
-</glossentry>
+даг кюлейи (<glossterm linkend="горный-ветер">горный ветер</glossterm>), дэрэ кюлейи
+(<glossterm linkend="долинный-ветер">долинный ветер</glossterm>).  </para></glossdef> </glossentry>
 
 <glossentry id="ветры-в-греции"><glossterm>Ветры в Греции</glossterm>
 
