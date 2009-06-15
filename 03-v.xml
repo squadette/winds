@@ -469,7 +469,7 @@ linkend="шуйер">Шуйер</glossterm>.  </para></glossdef> </glossentry>
 
 <glossdef><para>См.&nbsp;<glossterm linkend="ленцботе">Ленцботе</glossterm>.</para> </glossdef> </glossentry>
 
-<glossentry id="ветер"><glossterm>ВЕТЕР (от старосл. и санскрита~-- ватар, ветар),
+<glossentry id="ветер"><glossterm>Ветер (от старосл. и санскрита~-- ватар, ветар),
 витэр~(укр.),
   кюлейи~(азерб.), шамол~(узб.), шамалы~(кирг.), шимоли~(тадж.), жил(ь)~(татар.),
   тыал (якут.), [[ван]]~(фр.~vent), вентус~(лат. ventus), винд (англ. wind), кадзе
@@ -576,34 +576,58 @@ linkend="балаклавская-буря">Балаклавская буря</g
 
 <glossentry id="ветры-в-греции"><glossterm>Ветры в Греции</glossterm>
 
-<glossdef><para>1.&nbsp;Древнегреческие названия ветров: боррас&nbsp;(С),
-апарктий&nbsp;(С), месоборрас&nbsp;(ССВ), месес и месапелиотес&nbsp;(СВ),
-кекий&nbsp;(ВСВ), апелиотес&nbsp;(В), эврапелиотес и эвр&nbsp;(ВЮВ,
-ЮВ), эвронотос&nbsp;(ЮЮВ), нотос&nbsp;(Ю), либонотос&nbsp;(ЮЮЗ), липе и
-либо-зефирос&nbsp;(ЗЮЗ), зефирос&nbsp;(3), аргест и скиронозефирос&nbsp;(ЗСЗ),
-скирон&nbsp;(СЗ), скироноборрас&nbsp;(ССЗ).  </para><para>2. Новогреческие
-и местные названия ветров, а также распространенные на берегах
-Средиземного моря итальянские названия ветров: трамонтана, бора
-(С); греготрамонтана (ССВ); грего (СВ); кекий (СВ, В); греголевантес
-(ВСВ); леванте (В); апелиотес (В); вольтурн (ЮВ), финикийский ветер
-(ВЮВ), сирокко, сирокколевантес и эврос (ЮВ, Ю); нотья и острия (Ю);
-острогарбис (ЮЮЗ); гарбис, лебеччо и ливийский ветер (ЮЗ); понендогарбис
-(ЗЮЗ); поненте, понентис и зефирос (3); аргест, олимпийский ветер
-и понендо-маистра (ЗСЗ); маистро, маестрос и скирон (СЗ, С); япикс,
-кавр и корус (СЗ); фракийский ветер и маист-ротрамонтана (ССЗ).
-</para><para>&lt;&lt;todo.png,Ветры в Греции. Розы ветров: итальянская (а) и Башни
-Ветров в -Афинах (б).&gt;&gt;  </para></glossdef> </glossentry>
+<glossdef><para>1.&nbsp;Древнегреческие названия ветров:
+<glossterm linkend="борей">боррас</glossterm>&nbsp;(С), <glossterm
+linkend="апарктий">апарктий</glossterm>&nbsp;(С), месоборрас&nbsp;(ССВ),
+<glossterm linkend="месес">месес</glossterm> и месапелиотес&nbsp;(СВ),
+<glossterm linkend="кекий">кекий</glossterm>&nbsp;(ВСВ), <glossterm
+linkend="апелиотес">апелиотес</glossterm>&nbsp;(В), эврапелиотес и
+<glossterm linkend="эвр">эвр</glossterm>&nbsp;(ВЮВ, ЮВ), эвронотос&nbsp;(ЮЮВ),
+<glossterm linkend="нотос">нотос</glossterm>&nbsp;(Ю), либонотос&nbsp;(ЮЮЗ),
+<glossterm linkend="липс">липс</glossterm> и либо-зефирос&nbsp;(ЗЮЗ), <glossterm
+linkend="зефирос">зефирос</glossterm>&nbsp;(З), аргест и скиронозефирос&nbsp;(ЗСЗ),
+<glossterm linkend="скирон">скирон</glossterm>&nbsp;(СЗ), скироноборрас&nbsp;(ССЗ).
+</para><para>2. Новогреческие и местные названия ветров, а также
+распространенные на берегах Средиземного моря итальянские
+названия ветров: <glossterm linkend="трамонтана">трамонтана</glossterm>,
+<glossterm linkend="бора">бора</glossterm>&nbsp;(С); греготрамонтана&nbsp;(ССВ); <glossterm
+linkend="грего">грего</glossterm>&nbsp;(СВ); <glossterm linkend="кекий">кекий</glossterm>&nbsp;(СВ, В);
+греголевантес&nbsp;(ВСВ); <glossterm linkend="леванте">леванте</glossterm>&nbsp;(В);
+<glossterm linkend="апелиотес">апелиотес</glossterm>&nbsp;(В);
+<glossterm linkend="вольтурн">вольтурн</glossterm>&nbsp;(ЮВ), <glossterm
+linkend="финикийский-ветер">финикийский ветер</glossterm>&nbsp;(ВЮВ),
+<glossterm linkend="сирокко">сирокко</glossterm>, сирокколевантес
+и <glossterm linkend="эврос">эврос</glossterm>&nbsp;(ЮВ, Ю); нотья и <glossterm
+linkend="острия">острия</glossterm>&nbsp;(Ю); острогарбис&nbsp;(ЮЮЗ); <glossterm
+linkend="гарбис">гарбис</glossterm>, <glossterm linkend="лебеччо">лебеччо</glossterm>
+и ливийский ветер&nbsp;(ЮЗ); понендогарбис&nbsp;(ЗЮЗ); <glossterm
+linkend="поненте">поненте</glossterm>, понентис и зефирос&nbsp;(З);
+<glossterm linkend="аргест">аргест</glossterm>, олимпийский ветер и
+понендо-маистра (ЗСЗ); <glossterm linkend="маистро">маистро</glossterm>,
+маестрос и скирон&nbsp;(СЗ, С); <glossterm linkend="япикс">япикс</glossterm>, <glossterm
+linkend="кавр">кавр</glossterm> и <glossterm linkend="корус">корус</glossterm>&nbsp;(СЗ); <glossterm
+linkend="фракийский-ветер">фракийский ветер</glossterm> и маистротрамонтана
+(ССЗ).  </para><para>@img title="<glossterm linkend="ветры-в-греции">Ветры в
+Греции</glossterm>. Розы ветров: итальянская (а) и Башни Ветров в Афинах
+(б)."  </para></glossdef> </glossentry>
 
 <glossentry id="ветры-в-паланге"><glossterm>Ветры в Паланге (Литва)</glossterm>
 
-<glossdef><para>Моряной&nbsp;(3), преобладающий в этой части побережья;
-земной&nbsp;(В); козлиный&nbsp;(ЮВ); финский&nbsp;(СЗ).  </para></glossdef> </glossentry>
+<glossdef><para>Моряной&nbsp;(3), преобладающий в этой части
+побережья; <glossterm linkend="земной-ветер">земной</glossterm>&nbsp;(В);
+<glossterm linkend="козлиный-ветер">козлиный</glossterm>&nbsp;(ЮВ); <glossterm
+linkend="финский-ветер">финский</glossterm>&nbsp;(СЗ).  </para></glossdef> </glossentry>
 
 <glossentry id="ветры-в-риме"><glossterm>Ветры в Риме</glossterm>
 
-<glossdef><para>Септенрио и аквилон (С); кекий (СЕ); соланус (В); вольтурн (ЮВ);
-аустер и остро (Ю); африканский и африкус (ЮЗ); фавоний и поненте (З);
-корус (СЗ).  </para></glossdef> </glossentry>
+<glossdef><para><glossterm linkend="септенрио">Септенрио</glossterm>
+и <glossterm linkend="аквилон">аквилон</glossterm>&nbsp;(С);
+<glossterm linkend="кекий">кекий</glossterm>&nbsp;(СВ);
+<glossterm linkend="соланус">соланус</glossterm>&nbsp;(В); <glossterm
+linkend="вольтурн">вольтурн</glossterm>&nbsp;(ЮВ); <glossterm linkend="аустер">аустер</glossterm>
+и остро&nbsp;(Ю); <glossterm linkend="африканский-ветер">африканский</glossterm> и
+африкус&nbsp;(ЮЗ); <glossterm linkend="фавоний">фавоний</glossterm> и поненте&nbsp;(З);
+<glossterm linkend="корус">корус</glossterm>&nbsp;(СЗ).  </para></glossdef> </glossentry>
 
 <glossentry id="ветры-в-таджикистане"><glossterm>Ветры в Таджикистане</glossterm>
 
