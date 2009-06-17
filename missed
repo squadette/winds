@@ -3,7 +3,6 @@ Error: no ID for constraint linkend: септеитрио.
 Error: no ID for constraint linkend: бури-равноденствия.
 Error: no ID for constraint linkend: воя-д'эспань.
 Error: no ID for constraint linkend: катабатический-ветер.
-Error: no ID for constraint linkend: рибут.
 Error: no ID for constraint linkend: пассат.
 Error: no ID for constraint linkend: нижний-ветер.
 Error: no ID for constraint linkend: этезия.
@@ -90,7 +89,6 @@ Error: no ID for constraint linkend: пыльные-вихри.
 Error: no ID for constraint linkend: местный-ветер.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: пассат.
-Error: no ID for constraint linkend: романец.
 Error: no ID for constraint linkend: каскад-смерча.
 Error: no ID for constraint linkend: трамонтана.
 Error: no ID for constraint linkend: сирийский-ветер.
@@ -121,11 +119,9 @@ Error: no ID for constraint linkend: восточно-закавказский-�
 Error: no ID for constraint linkend: адриатическая-бора.
 Error: no ID for constraint linkend: бури-равноденствия.
 Error: no ID for constraint linkend: мельтеми.
-Error: no ID for constraint linkend: ревилья-хихедо.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: афер.
 Error: no ID for constraint linkend: маренин.
-Error: no ID for constraint linkend: романец.
 Error: no ID for constraint linkend: пыльные-вихри.
 Error: no ID for constraint linkend: тюркенвинд.
 Error: no ID for constraint linkend: мельтеми.
@@ -136,7 +132,6 @@ Error: no ID for constraint linkend: бури-равноденствия.
 Error: no ID for constraint linkend: липе.
 Error: no ID for constraint linkend: липе.
 Error: no ID for constraint linkend: стоковый-ветер.
-Error: no ID for constraint linkend: респос.
 Error: no ID for constraint linkend: мистраля-петит.
 Error: no ID for constraint linkend: пассат.
 Error: no ID for constraint linkend: марине.
@@ -185,6 +180,8 @@ Error: no ID for constraint linkend: стоковые-ветры.
 Error: no ID for constraint linkend: уилливо.
 Error: no ID for constraint linkend: чота-барсат.
 Error: no ID for constraint linkend: чота-барсат.
+Error: no ID for constraint linkend: адриатическая-бора.
+Error: no ID for constraint linkend: пыльными-бурями.
 Error: no ID for constraint linkend: тсхачапи.
 Error: no ID for constraint linkend: эвгей.
 Error: no ID for constraint linkend: вихрь.
@@ -216,7 +213,6 @@ Error: no ID for constraint linkend: цзюй.
 Error: no ID for constraint linkend: восточно-закавказский-муссон.
 Error: no ID for constraint linkend: пыльная-буря.
 Error: no ID for constraint linkend: апвеллинг.
-Error: no ID for constraint linkend: рибут.
 Error: no ID for constraint linkend: субтропическое-вст.
 Error: no ID for constraint linkend: восточноафриканское-струйное-течение.
 Error: no ID for constraint linkend: бури-равноденствия.
