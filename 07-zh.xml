@@ -10,12 +10,14 @@
 <glossentry id="желтая-пыльная-буря"><glossterm>Желтая пыльная буря, желтый ветер,
 хуан-фын (кит.)</glossterm>
 
-<glossdef><para>Сухой северо-западный или западный шквал, ветер из Гоби в
-Северном Китае, в пустынях и лёссовых степях Азии, сопровождающийся
-пыльными бурями.  В период зимнего муссона порывы ветра иногда
-повторяются ежедневно в течение полутора месяцев.  Возникает внезапно
-и так же неожиданно стихает.  Губит растительность, сильно высушивает
-почву.  </para></glossdef> </glossentry>
+<glossdef><para>Сухой северо-западный или западный <glossterm
+linkend="шквал">шквал</glossterm>, ветер из Гоби в Северном Китае,
+в пустынях и лёссовых степях Азии, сопровождающийся <glossterm
+linkend="пыльная-буря">пыльными бурями</glossterm>.  В период зимнего <glossterm
+linkend="муссон">муссона</glossterm> порывы ветра иногда повторяются ежедневно
+в течение полутора месяцев. Возникает внезапно и так же неожиданно
+стихает.  Губит растительность, сильно высушивает почву.  </para></glossdef>
+</glossentry>
 
 <glossentry id="женатый-ветер"><glossterm>Женатый ветер</glossterm>
 
@@ -36,13 +38,13 @@
 <glossdef><para>См.&nbsp;<glossterm linkend="джизакский-ветер">Джизакский
 ветер</glossterm>.</para> </glossdef> </glossentry>
 
-<glossentry id="жибуле"><glossterm>Жибуле (фр. giboule)</glossterm>
+<glossentry id="жибуле"><glossterm>Жибуле (фр. giboul&eacute;)</glossterm>
 
-<glossdef><para>Северо-западный шквал с сильным ливнем (шауэр)
-на Атлантическом побережье Франции.  Ср.&nbsp;<glossterm
-linkend="галерн">Галерн</glossterm>.  </para></glossdef> </glossentry>
+<glossdef><para>Северо-западный шквал с сильным ливнем (<glossterm
+linkend="шквал">шауэр</glossterm>) на Атлантическом побережье Франции.
+Ср.&nbsp;<glossterm linkend="галерн">Галерн</glossterm>.  </para></glossdef> </glossentry>
 
-<glossentry id="женев"><glossterm>Женев (фр. geneve)</glossterm>
+<glossentry id="женев"><glossterm>Женев (фр. gen&egrave;ve)</glossterm>
 
 <glossdef><para>Юго-западный ветер на о.&nbsp;Леман (Франция).  </para></glossdef> </glossentry>
 
