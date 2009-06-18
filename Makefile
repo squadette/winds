@@ -10,7 +10,7 @@ index.html: ${XML_FILES}
 
 index.html: winds.xml
 	xsltproc --nonet -o $@ winds.xsl $< 2> missed
-	cat missed
+	cat missed | sort | uniq -c | sort -n
 	wc -l missed
 	cp index.html winds.css ~/public_html/winds/
 
