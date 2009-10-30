@@ -28,6 +28,8 @@ while (my $para = <STDIN>) {
 	    $equiv = $2;
 	}
 
+	$terms =~ s/\s*\{.*\}//;
+
 	print qq{<glossentry id=\"$id\"><glossterm>$terms</glossterm>
 
 <glossdef>};
@@ -62,6 +64,10 @@ sub first_term {
 
 sub id_from_term {
     my $term = shift;
+
+    if ($term =~ /\{(.*)\}/) {
+	$term = $1;
+    }
 
     $term =~ s/[,\(].*$//;
     $term =~ s/\s+$//s;
