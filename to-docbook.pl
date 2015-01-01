@@ -80,8 +80,8 @@ sub id_from_term {
 sub process_markup {
     my $para = shift;
 
-    $para =~ s/<</&lt;&lt;/g;
-    $para =~ s/>>/&gt;&gt;/g;
+    $para =~ s/<</&laquo;/g;
+    $para =~ s/>>/&raquo;/g;
 
     $para =~ s/~/&nbsp;/g;
 
