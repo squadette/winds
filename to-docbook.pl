@@ -83,6 +83,10 @@ sub process_markup {
     $para =~ s/<</&laquo;/g;
     $para =~ s/>>/&raquo;/g;
 
+    $para =~ s/---/&mdash;/g;
+    $para =~ s/~--/&nbsp;&mdash;/g; # FIXME: переделать на ---
+    $para =~ s/--/&ndash;/g;
+
     $para =~ s/~/&nbsp;/g;
 
     $para =~ s/\n/ /gs;
